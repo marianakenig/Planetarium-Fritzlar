@@ -1,25 +1,19 @@
 # Planetarium-Fritzlar
 https://marianakenig.github.io/Planetarium-Fritzlar/
 
-## Systemanforderungen
+# Bildschirmdesign
+https://www.figma.com/design/dZtAT0bY4yW0TzESTMOIDT/Mariana-Kenig-ZP?node-id=0-1&t=JwDmlJsPUb0sZY9o-1
 
-### Hardware
-- Prozessor: Mindestens 1 GHz (empfohlen: 2 GHz oder schneller)
-- Arbeitsspeicher (RAM): Mindestens 2 GB (empfohlen: 4 GB oder mehr)
-- Festplattenspeicher: Mindestens 500 MB freier Speicherplatz
-- Bildschirmauflösung: Mindestens 1024x768 Pixel (empfohlen: 1280x720 oder höher)
+### Auflösung
+- Bildschirmauflösung: empfohle 576px × 1024px Pixel
 
-### Betriebssystem
-- Windows: Windows 10 oder höher
-- macOS: macOS 11 (Big Sur) oder höher
-- Linux: Ubuntu 20.04 oder vergleichbare Distributionen
-- Mobile Geräte: Android 9.0 oder höher, iOS 14.0 oder höher
+### Betriebssystem / Hardware
+- macOS: mac0S Sonoma Version 14.7.2
+- Mobile Geräte: Android 12.0 oder höher, iOS 14.0 oder höher
 
 ### Browservoraussetzungen
-- Google Chrome: Version 90 oder höher
-- Mozilla Firefox: Version 85 oder höher
-- Microsoft Edge: Version 90 oder höher
-- Safari: Version 14 oder höher
+- Google Chrome: Version 134
+
 - Hinweis: JavaScript und CSS müssen aktiviert sein.
 
 ## Zusätzliche Hinweise
